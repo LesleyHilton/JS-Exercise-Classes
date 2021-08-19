@@ -60,6 +60,8 @@ class Person {
 */
 
 class Car {
+
+  bestFunction = bestFunction;
   
 }
 
